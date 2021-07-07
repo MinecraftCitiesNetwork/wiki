@@ -25,15 +25,12 @@ module.exports = {
           docId: 'intro',
           position: 'left',
           label: 'Tutorial',
-<<<<<<< HEAD
         },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',
         },
-=======
->>>>>>> 633eaae01e7cebd698b6fd4308095f6e41c49cdb
       ],
     },
     footer: {
@@ -91,10 +88,7 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
-<<<<<<< HEAD
         },
-=======
->>>>>>> 633eaae01e7cebd698b6fd4308095f6e41c49cdb
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
